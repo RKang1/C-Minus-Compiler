@@ -1,2 +1,2 @@
-# Simple-C-Compiler
+# C-Minus-Compiler
 C- Compiler written in Java
