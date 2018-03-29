@@ -1,0 +1,45 @@
+
+int m[6];
+int x[4];
+
+int testFunc(int number, float decimalNumber)
+{
+	int var;
+	float z;		
+	int x;
+	int c;
+	int d;
+	int e;
+	int m;
+	
+	var = 1;
+	
+	m = 5;
+	
+	x = var + c / d - e;
+
+	if (z == 2.3)
+	{
+		float x;
+		x = 5.5;
+	}
+	
+	
+
+	return x;
+}
+
+int n;
+
+void main(void)
+{	int x; int y; int z[10]; float d;
+	float a[9];
+	int b[5];
+	
+	n = x;
+	
+	x = b[5];
+
+//	x = testFunc(x,2.2);
+
+}
