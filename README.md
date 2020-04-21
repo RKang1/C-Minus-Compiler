@@ -1,2 +1,2 @@
 # C-Minus-Compiler
-C- Compiler written in Java
+A compiler for a subset of the C language
